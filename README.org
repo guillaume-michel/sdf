@@ -1,0 +1,8 @@
+#+title:  Software Design for Flexibility
+#+author: Guillaume MICHEL
+#+date:   2021-03-20
+
+Playground for Software Design for Flexibility book by Gerald SUSSMAN & Chris HANSON
+
+* Where to find original code?
+[[http://groups.csail.mit.edu/mac/users/gjs/sdf.tgz]]
