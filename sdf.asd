@@ -8,4 +8,5 @@
   :homepage "http://orilla.fr"
   :license "MIT license"
   :class :package-inferred-system
-  :depends-on ("sdf/generic-arithmetic/all"))
+  :depends-on ("sdf/ode-integrator/all"
+               "sdf/generic-arithmetic/all"))
